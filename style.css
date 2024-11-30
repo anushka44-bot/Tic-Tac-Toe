@@ -4,7 +4,7 @@
 }
 
 h1{
-  margin-bottom: 50px;
+  margin-bottom: 10px;
 }
 
 body{
@@ -33,6 +33,7 @@ body{
   border: none;
   font-size: 6vmin;
   color: #b0413e;
+  background-color:whitesmoke;
 }
 
 .reset{
@@ -42,4 +43,21 @@ body{
   background-color: #191319;
   color: white;
   border-radius: 1rem;
+}
+.new-btn{
+  color: black;
+  padding: 1rem;
+  font-size: 0.75rem;
+  background-color: #191319;
+  color: white;
+  border-radius: 1rem;
+  margin-bottom: 1.5%;
+  margin-top: 0.75%;
+}
+.msg{
+  color:whitesmoke;
+  font-size: 1.5rem;
+}
+.hide{
+  display: none;
 }
